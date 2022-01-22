@@ -126,6 +126,24 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Elvis",
+      "species": "lion",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Paul",
+      "species": "crocodile",
+      "diet": "carnivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "14"
     }
   ]
 }
